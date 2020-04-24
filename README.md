@@ -2,9 +2,12 @@
 Build from Python. Tic tac toe game on terminal window.
 
 
-enter name of player1chetan
-enter name of player2a
-chetan  using  X
+OUTPUT :
+
+enter name of player1 Chetan
+enter name of player2 a
+
+Chetan  using  X
 a  using  O
 
 Starting the game
@@ -41,4 +44,4 @@ chetan Enter your choice: 7
  X |  - |  - | 
  X |  - |  - | 
 
-chetan  :   Wins !
+Chetan  :   Wins !
